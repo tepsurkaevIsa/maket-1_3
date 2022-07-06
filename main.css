@@ -1,0 +1,308 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, .mean-1 {
+    width: 100%;
+    background-color: #FAFAFA;
+}
+
+.mean-2 {
+    width: 100%;
+    background-color: white; 
+    padding-bottom: 10%;
+}
+
+.container {
+    width: 90%;
+    margin: auto; 
+    padding: 20px 0;
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    list-style: none;
+}
+
+.click {
+    width: 10%;
+    color: #F7941E;
+    border-color: #F7941E;
+    border-radius: 4%;
+}
+
+.rod-block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block-1, .block-2 {
+    width: 50%;
+    background-color: #F1F1F2;
+}
+
+.text1 {
+   font-size: 56px;
+   margin-bottom: 15%;
+}
+
+.pr1 {
+    font-size: 20px;
+    margin-bottom: 15%;
+}
+
+.click1 {
+    font-size: 18px;
+    color: white;
+    background-color: #F7941E;
+    height: 50px;
+    width: 50%;
+    border: none;
+    border-radius: 4%;
+}
+
+.r_block1 {
+    width: 55%;
+}
+
+.block-1 {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.text2 {
+    font-size: 32px;
+    margin-bottom: 10%;
+}
+
+.pr2 {
+    font-size: 20px;
+    margin-bottom: 10%;
+    text-align: justify;
+}
+
+.r_block2 {
+    width: 58%;
+}
+
+.click2 {
+    width: 50%;
+    height: 50px;
+    color: #F7941E;
+    border-color: #F7941E;
+    border-radius: 4%;
+}
+
+.container_2 {
+    text-align: center;
+    background-color: white;
+}
+
+.container_2 :first-child{
+    font-size: 32px;
+    padding-top:  6%;
+    padding-bottom: 2%;
+}
+
+.container_2 :last-child {
+    font-size: 18px;
+    padding-bottom:  6%;
+}
+
+.mean-2 main {
+    width: 86%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.parr {
+    font-size: 20px;
+    padding-bottom: 30%;
+    padding-top: 10%;
+}
+
+.parr2 {
+     font-size: 14px; 
+     padding-bottom: 10%
+}
+
+section {
+    width: 100%;
+}
+
+.mean-2 main div {
+    background-color: #FAFAFA;
+}
+
+.mean-3 {
+    width: 100%;
+    background-color: #F7941E;
+}
+
+.menu-5 {
+    width: 72%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 4%;
+    padding-top: 4%;
+}
+
+.menu-4 {
+    display: flex;
+    width: 38%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-5 h1{
+    font-size: 32px;
+}
+
+.menu-5 p {
+    font-size: 32px;
+}
+
+.cl-1, .cl-2 {
+    width: 150%;
+    height: 50px;
+    font-size: 18px;
+    border-radius: 4%;
+}
+
+.cl-1 {
+    background-color: #231F20;
+    color: white;
+}
+
+.cl-2 {
+    background-color: #F7941E;
+}
+
+.rod_item {
+   width: 86%;
+   margin: auto;
+   display: flex;
+}
+.block_item{
+    color: white;
+    width: 100%;
+    background-color: #231F20;
+}
+
+.p1 {
+    font-size: 14px;
+    padding-top: 15%;
+}
+
+.p2 {
+    font-size: 48px;
+    padding-top: 10%;
+    padding-bottom: 20%;
+}
+
+.p3 {
+    font-size: 18px;
+}
+
+.items {
+    width: 60%;
+    padding-left: 10%;
+}
+
+.nMenu, .nMenu2 {
+    width: 49%;
+}
+
+.nMenu{
+    box-shadow: 10px 10px 15px
+    rgba(0, 0, 0, 0.05);
+}
+
+.rodd_1 {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 16%;
+}
+
+.text__h, .text_h {
+    font-size: 24px;
+    width: 82%;
+    padding-top: 20%;  
+}
+
+.text__1, .text__3 {
+    font-size: 18px;
+    width: 75%;
+    padding-top: 5%;
+}
+
+.text__2, .text__4 {
+    font-size: 18px;
+    padding-top: 10%;
+    padding-bottom: 25%;
+}
+
+footer {
+    width: 100%;
+    background-color: #FAFAFA;
+    padding:8% 5% 5% 5%;
+    margin-top: 5%;
+
+}
+
+.mennuu_1 {
+    display: flex;
+    width: 50%;
+    margin: auto;
+    justify-content: space-between;
+    margin-bottom: 4%;
+}
+.rodBlock{
+    border-bottom: 1px solid black;
+}
+
+.men__n2 {
+    display: flex;
+    justify-content: space-between;
+    width: 25%; 
+}
+
+.men__n3 {
+    display: flex;
+    justify-content: space-between;
+    width: 25%; 
+}
+
+.mennuu_1 p {
+    font-weight: 800;
+}
+
+.vector {
+    padding-top: 5%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+}
+
+.f_menu {
+    display: flex;
+    width: 20%;
+    margin: auto;
+    justify-content: space-between ;
+    padding-top: 5%;
+}
